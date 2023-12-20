@@ -1,0 +1,4 @@
+template-file-path: iamroles.yaml
+tags:
+    cost-center: '123456'
+    org: 'AWS'
